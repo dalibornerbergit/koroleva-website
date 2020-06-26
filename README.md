@@ -1,9 +1,9 @@
-# koroleva_vue
+# KOROLEVA
 
 ### Brochure website for Plesni studio Koroleva
-```
+
 https://pskoroleva.ba
-```
+
 
 ## Project setup
 ```
